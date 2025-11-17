@@ -32,8 +32,8 @@ Pairs with the MS9282 breakout from above.
 
 ## MS9282 module
 
-![](assets/module9282.jpg)
+![](assets/module9282_en39.jpg)
 
-Contains the complete MS9282-based EN-39 substitute for HDMI conversion
+Contains the complete MS9282-based EN-39 substitute for HDMI conversion. The image shows it in comparison with the original EN-39 module.
 
 Directory: `ms9282_module`
